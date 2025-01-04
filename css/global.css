@@ -1,0 +1,154 @@
+a{
+    color: #00B4D8; /* Bright Teal - good for links */
+    text-decoration:none;
+    }
+    a:hover{
+    text-decoration:none;
+    color: #2C3E50; /* Deep Blue on hover */
+    }
+    a:focus{
+    text-decoration:none;
+    color: #2C3E50;
+    }
+    
+    .button{
+    background:#00B4D8; /* Bright Teal */
+    color:#fff!important;
+    /* rest of properties remain same */
+    }
+    
+    .button:hover{
+    background:#2C3E50!important; /* Deep Blue */ 
+    color:#fff!important;
+    }
+     
+    .button_1{
+    background:#00B4D8; /* Bright Teal */
+    color:#fff!important;
+    /* rest of properties remain same */
+    }
+    
+    .button_1:hover{
+    background:#2C3E50!important; /* Deep Blue */
+    color:#fff!important;
+    }
+    
+    .col_oran{
+    color: #00B4D8!important; /* Bright Teal */
+    }
+    .bg_oran{
+    background: #00B4D8!important; /* Bright Teal */
+    }
+    .bg_back{
+    background:#2C3E50; /* Deep Blue */
+    }
+    .bg_backo{
+    background:rgba(44, 62, 80, 0.95); /* Semi-transparent Deep Blue */
+    }
+    
+    hr{
+    opacity:1;
+    background-color:#E8F1F2; /* Light Cool Gray */
+    }
+    
+    .line {
+    background-color:#00B4D8; /* Bright Teal */
+    }
+    
+    /* Header Colors */
+    #top{    
+    background: rgba(0, 180, 216, 0.1); /* Very Light Teal */
+    }
+    
+    .navbar{
+    background:#2C3E50; /* Deep Blue */
+    }
+    
+    #header{
+    border-bottom: 1px solid #E8F1F2;
+    border-top: 1px solid #E8F1F2;
+    }
+    
+    #header .nav-link{
+    color:#fff;
+    }
+    #header .nav-link:hover{
+    color:#00B4D8; /* Bright Teal */
+    }
+    #header .nav-link:focus{
+    color:#00B4D8; /* Bright Teal */
+    }
+    #header .active{
+    color:#00B4D8; /* Bright Teal */
+    }
+    
+    .drop_1{
+    background:#fff;
+    }
+    
+    .drop_1 a{
+    border-bottom:1px solid #E8F1F2;
+    color:#2C3E50; /* Deep Blue */
+    }
+    .drop_1 a:hover{
+    background:#00B4D8; /* Bright Teal */
+    color:#fff;
+    }
+    
+    .sticky {
+    background-color: #2C3E50; /* Deep Blue */
+    }
+    
+    /* Form Colors */
+    .form-control:focus{
+    border-color:#E8F1F2;
+    }
+    .form-select:focus{
+    border-color:#E8F1F2;
+    }
+    .form-control{
+    border-color:#E8F1F2;
+    }
+    .form-select{
+    border-color:#E8F1F2;
+    color:#666;
+    }
+    
+    /* Footer Colors */
+    .footer_2i ul li a {
+    background:#2C3E50; /* Deep Blue */
+    color:#fff;
+    }
+    .footer_2i ul li a:hover {
+    background:#00B4D8!important; /* Bright Teal */
+    }
+    .footer_2i .form-control{
+    background:#E8F1F2; /* Light Cool Gray */
+    }
+    
+    .line_1{
+    background:#E8F1F2; /* Light Cool Gray */
+    }
+    
+    /* Accordion Colors */
+    .accordion-button {
+    background:#2C3E50; /* Deep Blue */
+    color:#fff;
+    }
+    .accordion-button:not(.collapsed) {
+    background:#00B4D8; /* Bright Teal */
+    color:#fff;
+    }
+    .accordion-body {
+    background: #fff;
+    }
+    .accordion-button::after {
+    color: #fff;
+    }
+    .accordion-item{
+    border-bottom:1px solid #E8F1F2;
+    }
+    
+    .bg_backn{
+    background:rgba(44, 62, 80, 0.7)!important; /* Semi-transparent Deep Blue */
+    }
